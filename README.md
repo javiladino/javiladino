@@ -1,5 +1,7 @@
-<h2><span style="color: #808080;">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Javier 🤖
-<br><span style="color: #999999;">I'm a graphic designer living in France</span> 🇫🇷 </span></h2>
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> i'm Javier Ladino 🤖
+### I'm a graphic designer living in France 🇫🇷 
+
+![https://github.com/javiladino](https://github.com/javiladino/javiladino/blob/main/javierladino_header_01.png?raw=true)
 
 <h3><span style="color: #808080;">I love projects 🚀 that are transversal to <span style="color: #3ccf91;">design</span> + <span style="color: #3ccf91;">image</span> + <span style="color: #3ccf91;">science</span> + <span style="color: #3ccf91;">data</span></span> 💚</h3>
 
