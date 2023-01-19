@@ -5,6 +5,8 @@
 
 I am a <span style="color: #00ccff;">**designer, audiovisual producer and mapMaker**</span> based in Nantes.
 
+I am a <span style="color: #00ccff;">**designer, audiovisual producer and mapMaker**</span> based in Nantes.
+
 I have enjoyed working on <span style="color: #3ccf91;">**transmedia projects**</span> that mix communication, digital marketing and audiovisual production for press offices of public entities and country promotion agencies, as well as the development of participatory exploration workshops for children, involving science, technology, engineering, art and mathematics (STEAM).
 
 > ### <span style="color: #808080;">I love projects 🚀 that are transversal to <span style="color: #3ccf91;">design</span> + <span style="color: #3ccf91;">image</span> + <span style="color: #3ccf91;">science</span> + <span style="color: #3ccf91;">data</span></span> 💚
@@ -88,7 +90,7 @@ I am currently training at the <span style="color: #3ccf91;"><strong>Data Scienc
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 
 
-<span style="color: #3ccf91">If you think I can collaborate in any of your projects, do not hesitate to contact me!</span>
+## <span style="color: #3ccf91">If you think I can collaborate in any of your projects, do not hesitate to contact me!</span>
 
 <a href="https://github.com/javiladino" target="_blank" rel="noopener" data-wplink-url-error="true"><img class="alignnone" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github" width="96" height="28"></a> 
 <a href="https://www.linkedin.com/in/jladino" target="_blank" rel="noopener"><img class="alignnone" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin" width="111" height="28"></a> 
