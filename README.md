@@ -11,7 +11,7 @@ I have enjoyed working on <span style="color: #3ccf91;">**transmedia projects**<
 
 After discovering the world of data, I decided to make a professional reconversion to deepen in <span style="color: #00ccff;">**Information Design and Data Visualization**</span>, where through analysis and programming we can obtain graphical solutions to all kinds of social problems or needs in business models.
 
-### <span style="color: #99cc00;"><a href="https://emojiterra.com/es/biceps-color-de-piel-3/">💪🏼</a> &nbsp;</span><span style="color: #3ccf91;">I never stop learning! </span><span style="color: #99cc00;">🧠</span>
+### 💪🏼&nbsp;<span style="color: #3ccf91;">I never stop learning! </span>🧠
 
 I am currently training at the <span style="color: #3ccf91;"><strong>Data Science</strong></span> school of <span style="color: #00ccff;">Platzi - Online Education Platform</span> 🎓, and I hope very soon to do a master's degree in digital humanities and interactive media.
 
@@ -95,5 +95,3 @@ I am currently training at the <span style="color: #3ccf91;"><strong>Data Scienc
 <a href="https://twitter.com/javierladino" target="_blank" rel="noopener"><img class="alignnone" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter" width="104" height="28"></a>
 <a href="https://www.instagram.com/javier__ladino/" target="_blank" rel="noopener"><img class="alignnone" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" ></a>
 <a href="https://mastodon.social/@javierladino" target="_blank" rel="noopener"><img class="alignnone" src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white" alt="Mastodon" ></a>
-
-<span style="color:blue">some *blue* text</span>.
