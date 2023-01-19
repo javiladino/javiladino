@@ -3,9 +3,7 @@
 
 ![https://github.com/javiladino](https://github.com/javiladino/javiladino/blob/main/javierladino_header_01.png?raw=true)
 
-I am a <span style="color: #00ccff;">**designer, audiovisual producer and mapMaker**</span> based in Nantes.
-
-I am a <span style="color: #00ccff;">**designer, audiovisual producer and mapMaker**</span> based in Nantes.
+<p>I am a <span style="color: #00ccff;">**designer, audiovisual producer and mapMaker**</span> based in Nantes.</p>
 
 I have enjoyed working on <span style="color: #3ccf91;">**transmedia projects**</span> that mix communication, digital marketing and audiovisual production for press offices of public entities and country promotion agencies, as well as the development of participatory exploration workshops for children, involving science, technology, engineering, art and mathematics (STEAM).
 
