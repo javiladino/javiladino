@@ -95,3 +95,6 @@ I am currently training at the <span style="color: #3ccf91;"><strong>Data Scienc
 <a href="https://twitter.com/javierladino" target="_blank" rel="noopener"><img class="alignnone" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter" width="104" height="28"></a>
 <a href="https://www.instagram.com/javier__ladino/" target="_blank" rel="noopener"><img class="alignnone" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" ></a>
 <a href="https://mastodon.social/@javierladino" target="_blank" rel="noopener"><img class="alignnone" src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white" alt="Mastodon" ></a>
+
+[![Email](https://img.shields.io/badge/hello@javierladino.co-ED225D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ED225D)](mailto:hello@javierladino.com)
+</br>
