@@ -1,9 +1,9 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> i'm Javier Ladino 🤖
 ## **{Data/Designer/Maker}**
 
-![https://github.com/javiladino](https://github.com/javiladino/javiladino/blob/main/javierladino_header_01.png?raw=true)
+![https://github.com/javiladino](https://github.com/javiladino/javiladino/blob/main/banner_jl_2.jpg?raw=true)
 
-I am a <span style="color: #00ccff;">**designer, audiovisual producer and mapMaker**</span> based in Nantes.
+I am a <span style="color: #00ccff;">**Data Engineer and DataViz Designer**</span> based in Nantes.
 
 After discovering the world of data, I decided to make a professional reconversion to go deeper into information design and data visualization. My main focus is on defining, implementing and maintaining tools and systems that enable efficient data processing. Throughout my career, I have acquired knowledge of several key technologies in this field: configuration, administration, exploration and data transformation. I am proficient in data manipulation with the Python programming language and also have experience in data visualization and presentation with Tableau and Looker. I am currently looking for an internship to validate my skills.
 
