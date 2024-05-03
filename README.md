@@ -5,15 +5,13 @@
 
 I am a <span style="color: #00ccff;">**designer, audiovisual producer and mapMaker**</span> based in Nantes.
 
-I have enjoyed working on <span style="color: #3ccf91;">**transmedia projects**</span> that mix communication, digital marketing and audiovisual production for press offices of public entities and country promotion agencies, as well as the development of participatory exploration workshops for children, involving science, technology, engineering, art and mathematics (STEAM).
+After discovering the world of data, I decided to make a professional reconversion to go deeper into information design and data visualization. My main focus is on defining, implementing and maintaining tools and systems that enable efficient data processing. Throughout my career, I have acquired knowledge of several key technologies in this field: configuration, administration, exploration and data transformation. I am proficient in data manipulation with the Python programming language and also have experience in data visualization and presentation with Tableau and Looker. I am currently looking for an internship to validate my skills.
 
 > ### <span style="color: #808080;">I love projects 🚀 that are transversal to <span style="color: #3ccf91;">design</span> + <span style="color: #3ccf91;">image</span> + <span style="color: #3ccf91;">science</span> + <span style="color: #3ccf91;">data</span></span> 💚
 
-After discovering the world of data, I decided to make a professional reconversion to deepen in <span style="color: #00ccff;">**Information Design and Data Visualization**</span>, where through analysis and programming we can obtain graphical solutions to all kinds of social problems or needs in business models.
-
 ### 💪🏼&nbsp;<span style="color: #3ccf91;">I never stop learning! </span>🧠
 
-I am currently training at the <span style="color: #3ccf91;"><strong>Data Science</strong></span> school of <span style="color: #00ccff;">Platzi - Online Education Platform</span> 🎓, and I hope very soon to do a master's degree in digital humanities and interactive media.
+I am currently training at the <span style="color: #3ccf91;"><strong>Data Science</strong></span> and <span style="color: #3ccf91;"><strong>Data Engineer</strong></span>school of <span style="color: #00ccff;">Platzi - Online Education Platform</span> 🎓, and I hope very soon to do a master's degree in digital humanities and interactive media.
 
 ### 👨‍💻 My development stack:
 
