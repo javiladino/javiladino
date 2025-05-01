@@ -28,7 +28,7 @@ I am currently pursuing a **Master’s Degree in Information Systems and Network
 - **Design and architecture of business-oriented information systems.**
 - **Data visualization** for decision support and storytelling.
 - **Data modeling, machine learning, and data architectures** (Data Warehouses, Data Lakes).
-- **Deployment of cloud solutions** and **virtualized infrastructures** (AWS, Azure, Kubernetes, Terraform).
+- **Deployment of cloud solutions** and **virtualized infrastructures** (AWS, GCP, Kubernetes, Terraform).
 - **Agile project management** and leadership of multicultural remote teams.
 - **Graphic design and digital prototyping** for data platforms and user interfaces.
 
