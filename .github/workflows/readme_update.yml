@@ -11,9 +11,10 @@ jobs:
     name: Update Profile README
 
     steps:
-      - uses: actions/checkout@v4.2.2
-        with:
-          fetch-depth: 0
       - uses: Readme-Workflows/recent-activity@v2.4.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        CONFIG_FILE: ""  # Desactiva la búsqueda del archivo de configuración
+        COMMIT_MSG: "⚡ Update README with recent activity"
+        MAX_LINES: 5
