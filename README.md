@@ -163,6 +163,20 @@ I am currently pursuing a **Master’s Degree in Information Systems and Network
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 
 ---
+
+### :zap: Recent activity
+
+<!--START\_SECTION:activity-->
+
+<!--END\_SECTION:activity-->
+
+
+
+<!--RECENT\_ACTIVITY:start-->
+
+<!--RECENT\_ACTIVITY:last\_update-->
+
+---
 ## 🤝 Let's Work Together!
 
 I am always open to new challenges, creative projects, and technological adventures.
