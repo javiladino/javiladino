@@ -165,9 +165,9 @@ I am currently pursuing a **Master’s Degree in Information Systems and Network
 ---
 
 ### :zap: Recent activity
-<!--START_SECTION:activity-->
+<!--RECENT\_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT\_ACTIVITY:last\_update-->
 ---
 ## 🤝 Let's Work Together!
 
